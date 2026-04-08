@@ -81,10 +81,11 @@ def add_task(inventory): #1 ---
     print('\nNote: Do not use spaces or accents unless necessary.')
 
     result = get_task_data() #Request the data
-    title, description, priority, status = result
     #If there's nothing, it's because I don't save anything.
     if result is None:
         return print(f"\n{'-' * 10} No products were saved {'-' * 10}")
+    
+    title, description, priority, status = result
     
     #Dictionary outline task
     task = {
