@@ -28,11 +28,5 @@ Performance-test/
 
 Este proyecto está bajo la Licencia (MIT) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
-## Expresiones de Gratitud 🎁
-
-* Gracias a riwi por permitirme la oportunidad de estar aquí 🤓.
-
-
-
 ---
 ⌨️ con ❤️ por [CristianAlbor](https://github.com/cristianronaldo1) 😊
